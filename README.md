@@ -25,4 +25,7 @@ The federated multi-agent reinforcement learning algorithm (HetFed-MASAC) is cur
   - Wireless channel modeling (LoS/NLoS)  
   - Data collection and offloading mechanisms  
   - AoI evolution  
-  - Energy consumption modeling  
+  - Energy consumption modeling
+
+- `requirements.txt`  
+  Python dependency list required to reproduce the simulation environment and learning framework.
